@@ -8,3 +8,8 @@ I know it's a lot, but if you are interested enough in this project to click on 
 
 And, if you know more about the project, its technicalities, or non-confidential specifics about the project that is **not** presented on this page, maybe you could take the time to [email me](mailto:techconnect.gtr.ms@gmail.com) and help me fill in the gaps of this page... 😬 👉️👈️ Please...?
 
+The Facts: &nbsp; [Timeline](timeline) &nbsp; | &nbsp; [Cryptocurrency/Blockchain 101](crypto_101)
+
+The Arguments: &nbsp; [Arguments in Favor](in-favor) &nbsp; | &nbsp; [Concerns and Positions Against](concerns)
+
+My own personal biases: &nbsp; [My Personal Bias](my_bias)
