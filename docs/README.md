@@ -2,7 +2,7 @@
 
 I wrote this page as a means to help people get up to speed on what is currently known about this project, especially those that seem to ask questions more than they listen to or read the answers of people that try to be nice and answer them. 
 
-So if this is your first time running into this page, I humbly ask that you read this in it's entirety.
+So if this is your first time running into this page, I humbly ask that you read this in it's entirety (including the pages shown in the sidebar).
 
 I know it's a lot, but if you are interested enough in this project to click on a link someone sent you about it or that you ran into in the "wild" of the internet, I think it is worth your time to have as complete an understanding as possible.
 
