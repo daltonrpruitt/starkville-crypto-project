@@ -1,6 +1,6 @@
-## Starkville Cryptocurrency Mining Facility Information Website
+## Starkville Crypto Mining Facility Information Website
 
-This repository is meant to hold fact-based (i.e. not rumors) on the current cryptocurrency center proposed in Starkville, Mississippi. 
+This repository is meant to hold fact-based (i.e. not rumors) on the current cryptocurrency mining facility proposed in Starkville, Mississippi. 
 It is intended to be as unbiased as possible, though being completely unbiased is inherently impossible. 
 I try to disclose my own biases in one of the pages (to be created). 
 
