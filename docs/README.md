@@ -1,4 +1,4 @@
-## Starkville Cryptocurrency Mining Facility Project Information
+## Starkville Crypto Mining Facility Project Information
 
 I wrote this page as a means to help people get up to speed on what is currently known about this project, both as to the basic facts and events so far, and as to the arguments being made on both sides (that I know of).
 
