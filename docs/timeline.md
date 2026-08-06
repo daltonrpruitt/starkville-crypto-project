@@ -21,7 +21,7 @@ There is an entry for "Virtual currency (cryptocurrency) mining" in the 2022 NAI
 
 
 
-## July 2026
+## June 2026
 
 ### Prior to 6/12/2026 work session
 (As far as I can tell,) Mayor Spruill or someone else in the city was contacted by TVA (Tennessee Valley Authority, who Starkville Utilities buys power from) about this proposed project, and a presentation was organized for the Board of Aldermen’s 6/12 work session.
@@ -48,6 +48,8 @@ Discussion began and many citizens became worried about some of the aspects of t
 For example, the [xAI facilities in Memphis](https://www.msn.com/en-us/news/other/class-action-lawsuit-filed-over-xai-complaints-in-southaven/ar-AA25j6sJ) and [proposed facility in Southaven](https://mississippi.org/news/tech-leader-xai-investing-more-than-20-billion-in-southaven/) have generated mixed sentiment, with local and state officials being mostly enthusiastic and community members being more negative. 
 
 On 6/17/2026, Alderman Pochop posted on [Facebook](https://www.facebook.com/share/p/1Btj5pd8KT/) about an upcoming town hall event he planned to host.
+
+## July 2026
 
 
 ### 7/7/2026 - Board of Aldermen Regular Meeting
