@@ -156,7 +156,7 @@ While nuclear is technically non-renewable, it can be counted as "clean" in the 
 
 Based on [TVA's Draft Integrated Resource Plan for 2025](https://www.tva.com/environment/draft-2025-integrated-resource-plan), they included a Draft [Environmental Impact Statement](https://tva-azr-eastus-cdn-ep-tvawcm-prd.azureedge.net/cdn-tvawcma/docs/default-source/environment/environmental-stewardship/integrated-resource-plan/2025/draft-2025-environmental-impact-statement.pdf?sfvrsn=d923248c_1) that gives the following table for 2020-2023 generation by type of production:
 
-![[Pasted image 20260723115552.png]]
+![](images/tva_generation_by_type.png)
 
 Based on this table, I worked out that the "non-clean" to "clean" power production is as follows:
 
