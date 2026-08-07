@@ -18,7 +18,8 @@ It is discussed below.
 
 We want anyone that has concerns one way or another about this proposed facility to come visit with each other and help us all develop a solid plan for the coming weeks.
 
-> **This meeting will take place on Monday 8/10, at 6pm at 607 Hospital Road here in Starkville.**
+> **This meeting will take place on Monday 8/10, at 6pm at 607 Hospital Road here in Starkville.**  
+> There will be **light** refreshments; in the spirit of potlucks, we request that you please bring what you can to share, but don't fret if you can't! 
 
 The form at the bottom of this page has a question to help us get a headcount for this meeting.
 If you are interested, please mark yourself as "yes" for that!
