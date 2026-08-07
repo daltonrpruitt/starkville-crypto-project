@@ -34,5 +34,71 @@ As will be discussed at the aforementioned 8/10 community meeting, there are sev
 
 If you can commit to doing any of these, or are just interested in keeping in the loop, please fill out this form below:
 
+<div class="response-row">
+  <p>Current number of responses:</p>
+  <div id="responses-count">
+    <div class="loading-spinner"></div>
+    <p></p>
+  </div>
+</div>
+
+<style>
+.response-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* left item hugs left, right item's container takes remaining space */
+}
+
+.response-row > p:first-child {
+  text-align: left;
+  margin: 0px;
+  font-size:20px;
+}
+
+#responses-count {
+  display: flex;
+  align-items: center;
+  justify-content: left; /* centers spinner + count within this container */
+  flex: 1; /* let it take up the remaining horizontal space so centering has room to work */
+  gap: 8px;
+}
+
+#responses-count p {
+  margin: 0px;
+  padding: 10px;
+}
+
+.loading-spinner {
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  animation: spin 1s linear infinite;
+  margin: 0 auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+</style>
+
+<script>
+const API_URL = "https://script.google.com/macros/s/AKfycby81IUBmdY6dgw38gbbQ6ciQXK2nPpDztZIwxShpW1Zwwv711heL18UnvucYcMnbn8bDw/exec";
+fetch(API_URL, 
+  )
+  .then(response => response.json())
+  .then(data => {
+    console.log(`data = ${JSON.stringify(data)}`);
+    const countDiv = document.querySelector("#responses-count");
+    countDiv.innerHTML = `<p style="font-size: 20px; text-align:center; margin: 0;">${data["count"]}</p>`;
+  })
+  .catch(err => {
+    console.error("Error fetching sheet data:", err);
+    const countDiv = document.querySelector("#sheet-data div");
+    countDiv.innerHTML = `Failed to load data; email me at <a href="mailto:starkvillecmf@gmail.com" target="_blank">starkvillecmf@gmail.com</a>`;
+  });
+</script> 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMvY3sOlwFKrzafzZq5Ba1eMR_7mJJT8LPVxSGetfckTA2_A/viewform?embedded=true" width="640" height="1657" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
