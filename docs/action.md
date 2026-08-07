@@ -12,6 +12,7 @@ So, to make it easier on people, discuss the plan some of us worked on, and to p
 we wanted to set up a community event! 
 It is discussed below.
 
+> Quick aside:  
 > No action by the community can be taken if no one knows about it.  
 > No one will know if no one talks to others about it.  
 > So, we need to talk to each other, both online and offline. 
