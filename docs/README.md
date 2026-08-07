@@ -1,5 +1,11 @@
 ## Starkville Crypto Mining Facility Project Information
 
+> Hey!  
+> Do you know enough already and just want to know what you can do?  
+> Head to the [Take Action](action) page!
+
+## Background
+
 I wrote this page as a means to help people get up to speed on what is currently known about this project, both as to the basic facts and events so far, and as to the arguments being made on both sides (that I know of).
 
 So if this is your first time running into this page, I humbly ask that you read this in it's entirety. Please use the sidebar (hamburger icon) to navigate between pages, which are organized by topic.
