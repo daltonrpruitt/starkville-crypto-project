@@ -65,7 +65,7 @@ It's worth noting that a citizen got in touch with someone from Puryear, TN (whi
 - "Lives about a mile away: wakes up between 12 and 1 AM to a deep thrumming. And others do as well. BPU [local utility] says they’re very compliant etc."
 
 The main concerns surrounding this audible noise are the nearby apartments and the Emerson school. 
-- [ ] Add approximate distances and map screenshot (dropdown)
+See below [section on location concerns](#location-proximity-to-vulnerable-populations) for images and approximate distances.
 
 #### Infrasound
 
@@ -92,11 +92,34 @@ Humans are just animals, so the concerns of infrasound/LFN also apply to the ani
 ## Location - Proximity to vulnerable populations
 
 The proposed site is located close to the Emerson Preschool, the Oktibbeha County Humane Society, McKee Park, and a population of low-income Starkville residents.
-- [ ] Add approximate distances and map screenshot (dropdown)
+See below for images of the locations of these places and approximate distances.
 
 If any of the localized hazards are realized, they would primarily affect populations that are already vulnerable.
 
 Approving the site here could potentially do harm to people that aren't in a position to resist, adding to the list of such avoidable harms in the world's history.
+
+| Location            | Approximate Distance  |
+| ------------------- | --------------------- | 
+| Emerson School      | ~1900 ft or ~1/3 mile |
+| OCHS                |  ~920 ft or ~1/6 mile |
+
+
+![](images/proposed_site_layout.svg)
+Colored layout of zones surrounding proposed crypto mining facility site.
+
+<details>
+<summary>Approximate Distance Images - Click here to see</summary>
+
+<img src="images/dist_to_emerson.png" alt="Screenshot of Google Maps showing approximate distance between proposed crypto mining facility and Emerson School. The measurement tool shows about 1900 feet of distance." style="margin: 0; padding: 0;">
+<p>Approximate distance between proposed crypto mining facility and Emerson School</p>
+</br>
+
+<img src="images/dist_to_ochs.png" alt="Screenshot of Google Maps showing approximate distance between proposed crypto mining facility and Oktibbeha County Humane Society. The measurement tool shows about 920 feet of distance." style="margin: 0; padding: 0;">
+<p>Approximate distance between proposed crypto mining facility and Oktibbeha County Humane Society (OCHS)</p>
+</br>
+
+</details>
+
 
 
 ## Lack of tangible goods/service and jobs
