@@ -30,7 +30,10 @@ As will be discussed at the aforementioned 8/10 community meeting, there are sev
 1. Attend the Planning and Zoning Commission meeting on August 11 to express your concerns.
 1. Contact your ward's alderperson by Tuesday, August 18. (You can find your representative [here](https://www.cityofstarkville.org/114/Board-of-Aldermen))
 1. Attend the Board of Aldermen meeting on Tuesday, August 18 to express your concerns.
-1. Sharing this website (https://starkvillecmf.org) with a friend, colleague, or neighbor.
+1. Sharing this website (https://starkvillecmf.org) with a friend, colleague, or neighbor. You can do this from your phone ([Chrome](https://support.google.com/chrome/answer/10051760?hl=en&co=GENIE.Platform=Android#zippy=%2Cshare-pages-with-others), [Safari](https://support.apple.com/guide/safari/share-or-post-webpages-sfri40722/mac), or just look for one of the "share" buttons somewhere in your browser: 
+<img src="https://help.apple.com/assets/694059D0C518698CA301A7F5/694059D2E3D62F01EF0FA1EE/en_US/197e575aa407b2e8a25b6d966b3169c4.png " alt="Share" width="17"/> 
+or 
+<img src="https://lh3.googleusercontent.com/QJFwTz7l_cl7vlTGeHMxxE7L-kzNjnRl4CGke2lNwMcxKc2FeAH_mgqiQk8elz5LEUc=w36-h36" alt="Share" width="20"/> )
 
 
 If you can commit to doing any of these, or are just interested in keeping in the loop, please fill out the form below.  
