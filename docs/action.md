@@ -32,7 +32,8 @@ As will be discussed at the aforementioned 8/10 community meeting, there are sev
 1. Sharing this website (https://starkvillecmf.org) with a friend, colleague, or neighbor.
 
 
-If you can commit to doing any of these, or are just interested in keeping in the loop, please fill out this form below:
+If you can commit to doing any of these, or are just interested in keeping in the loop, please fill out the form below.  
+If you have any questions, please [email me](mailto:starkvillecmf@gmail.com)!
 
 <div class="response-row">
   <p>Current number of responses:</p>
