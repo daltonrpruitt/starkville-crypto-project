@@ -228,10 +228,7 @@ Maybe due to one of the aforementioned concerns; maybe just a gut feeling.
 But some may see this as a small opportunity to say "no" to such facilities. 
 
 This isn't "selling our city", but it is giving the go-ahead for a project that is at least tangentially connected with other projects that resulted in out-of-touch statements by politicians that demonstrate they don't actually care what the people want or need. 
-Why let this slip by?
-- [ ] Rework this section; too preachy
-
-
+Why let this slip by without so much as a whimper?
 
 
 
