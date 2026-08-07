@@ -95,6 +95,8 @@ If you have any questions, please [email me](mailto:starkvillecmf@gmail.com)!
 }
 </style>
 
+<iframe id="form" src="https://docs.google.com/forms/d/e/1FAIpQLScMvY3sOlwFKrzafzZq5Ba1eMR_7mJJT8LPVxSGetfckTA2_A/viewform?embedded=true" width="640" height="1657" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 <script>
 const API_URL = "https://script.google.com/macros/s/AKfycby81IUBmdY6dgw38gbbQ6ciQXK2nPpDztZIwxShpW1Zwwv711heL18UnvucYcMnbn8bDw/exec";
 fetch(API_URL, 
@@ -110,6 +112,17 @@ fetch(API_URL,
     const countDiv = document.querySelector("#sheet-data div");
     countDiv.innerHTML = `Failed to load data; email me at <a href="mailto:starkvillecmf@gmail.com" target="_blank">starkvillecmf@gmail.com</a>`;
   });
+
+function updateFormWidth() {
+  if ( window.innerWidth <= 640 ) {
+    var iframe_form = document.getElementById("form");
+    iframe_form.style.width = (window.innerWidth - 25) + "px";
+  } else if ( window.innerWidth > 800 ) {
+    iframe_form.style.width = 640 + "px";
+  }
+}
+window.addEventListener('load', updateFormWidth);
+window.addEventListener('resize', updateFormWidth);
+
 </script> 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScMvY3sOlwFKrzafzZq5Ba1eMR_7mJJT8LPVxSGetfckTA2_A/viewform?embedded=true" width="640" height="1657" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
