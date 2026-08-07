@@ -1,8 +1,8 @@
 ## Starkville Crypto Mining Facility Project Information
 
 > Hey!  
-> Do you know enough already and just want to know what you can do?  
-> Head to the [Take Action](action) page!
+> If you already know how you feel and don’t wanna read all this,  
+> you can jump straight to the [Take Action](action) page for action items!
 
 ## Background
 
