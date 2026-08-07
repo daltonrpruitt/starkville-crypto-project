@@ -5,4 +5,5 @@
 * The Arguments
     * [Arguments in Favor](in-favor)
     * [Concerns and Positions Against](concerns)
+* [What Can *You* Do?](action)
 * [My Bias](my_bias)
