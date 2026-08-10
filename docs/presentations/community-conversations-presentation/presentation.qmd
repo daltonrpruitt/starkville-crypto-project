@@ -1,9 +1,8 @@
 ---
 title: "Community Conversations: Cryptocurrency"
-author: "Dalton Winans-Pruitt"
 format: 
   revealjs:
-    theme: dracula
+    theme: [dracula, custom.scss]
     transition: slide
     incremental: true
     transition-speed: default
@@ -12,8 +11,6 @@ format:
     auto-animate-easing: ease-in-out
     auto-animate-duration: 0.8
 ---
-
-## Community Conversations: Cryptomining
 
 ------------------------------------------------------------------------
 
