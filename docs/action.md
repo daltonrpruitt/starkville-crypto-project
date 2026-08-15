@@ -1,3 +1,5 @@
+> Note: The events discussed here have taken place. So, this is outdated, but can serve as a guide for similar future efforts.
+
 ## What Can You Do to Help?
 
 No matter which side of this you are on, there are two main things you need to show:
@@ -45,6 +47,10 @@ or
 If you can commit to doing any of these, or are just interested in keeping in the loop, please fill out the form below.  
 If you have any questions, please [email me](mailto:starkvillecmf@gmail.com)!
 
+
+> Note: The form has been removed as the relevant events have taken place.
+
+<!--  
 <div class="response-row">
   <p>Current number of responses:</p>
   <div id="responses-count">
@@ -125,4 +131,4 @@ window.addEventListener('load', updateFormWidth);
 window.addEventListener('resize', updateFormWidth);
 
 </script> 
-
+ -->
