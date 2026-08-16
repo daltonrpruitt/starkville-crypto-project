@@ -1,4 +1,4 @@
-## Starkville Crypto Mining Facility Project Information
+## (Archive of) Starkville Crypto Mining Facility Project Information
 
 
 Hey!  
