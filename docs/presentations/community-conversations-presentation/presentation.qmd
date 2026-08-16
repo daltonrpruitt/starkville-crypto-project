@@ -1,0 +1,129 @@
+---
+title: "Community Conversations: Cryptocurrency"
+format: 
+  revealjs:
+    theme: [dracula, custom.scss]
+    transition: slide
+    incremental: true
+    transition-speed: default
+    background-transition: convex
+    auto-animate: true
+    auto-animate-easing: ease-in-out
+    auto-animate-duration: 0.8
+---
+
+------------------------------------------------------------------------
+
+## The Problem
+
+-   Proposed cryptocurrency mining facility
+-   Potential issues
+-   Some citizens are concerned
+-   Even Starkville city staff recommend denial of request as it is presented
+
+------------------------------------------------------------------------
+
+## A Plan / Not “The” Plan 
+
+1.  Community members discuss the issue
+    -  this meeting
+    -  online discourse prior and after
+2.  Attendance at the Planning and Zoning Commission meeting
+    -  Tomorrow (8/11), 5:30pm at City hall
+    -  A few of us plan to give a longer broken up speech
+    -  Anyone that wants to talk will hopefully have time (tips to follow)
+
+------------------------------------------------------------------------
+
+## A Plan / Not “The” Plan (cont'd) {.smaller}
+
+3.  Attendance at the next Board of Aldermen meeting where it will be discussed
+    -  P&Z Commission recommendation –\> Board of Aldermen the following week (8/18)
+    -  We will know by the Friday before (8/14) if on the agenda
+    -  If not that week, may be next month.
+    -  I really don't know.
+    -  Could it be dismissed at the next work session for consent items at the next BoA meeting???
+4.  Vigilance - this or similar requests could be made in the future
+    -  The same company may update their request with actual data to back up claims
+    -  Maybe it will be acceptable at that point...
+    -  But maybe not
+
+------------------------------------------------------------------------
+
+## Structure of the P&Z Meeting {.smaller}
+
+1.  Normal starting things: Intro, Pledge of Allegiance & Moment of Silence, Roll Call, consideration of agenda, approval of minutes of previous meeting
+2.  Citizen Comments
+    -  Since there is an actual item on the agenda for the crypto mining facility, this is not where we should speak
+3.  New business
+    -  There are 3 items to discuss, A, B, an C; the crypto mine is B
+    -  Due to how many people are present to discuss the crypto mine, they may move it up in the order.
+    -  Just pay attention to when people are talking about the data center!
+
+- Note: Flexible / subject to change slightly!
+
+------------------------------------------------------------------------
+
+## Guidelines for Speeches/Speaking
+
+-   Writing
+-   Delivery
+-   Flexibility
+
+------------------------------------------------------------------------
+
+## Writing
+
+-   Write out your thoughts ahead of time
+    -   Maybe get feedback from peers?
+-   Share why you care and what you want
+-   Grounded in facts, not opinions
+-   Don't tell jokes
+-   Be respectful; don't be accusatory
+-   Your audience is the officials in front of you, not the community behind you
+-   Be brief (ideally \<2-3 minutes, especially if speaking on behalf of yourself)
+
+------------------------------------------------------------------------
+
+## Delivery
+
+-   Dress presentably
+-   Calm and measured, not overly emotional or “hysterical”
+-   Practice a few times; time yourself
+-   I don't think we have time to pass out any visual aids (or use the presentation media)
+-   Breathe
+
+## Flexibility
+
+-   Realize that we may not all get to speak, depending on what rules are enforced
+-   The numbers and overall sentiment may mean more than the specific arguments made, but we should still try to be coherent and respectful
+
+------------------------------------------------------------------------
+
+## Resources:
+
+-   [Starkville Planning and Zoning Commission Agenda Files](https://starkvillems.portal.civicclerk.com/event/2288/files/agenda/3011)
+-   [Quick tips for speaking at a public meeting](https://fmr.org/updates/land-use-planning/quick-tips-speaking-public-meeting) - Includes a video going over the tips
+-   [Getting the Council to Vote Yes!](https://westsidetoastmasters.com/article_reference/getting_the_council_to_vote_yes.html) - This is more for a longer presentation
+
+------------------------------------------------------------------------
+
+## Questions?
+
+:::: {.columns}
+
+::: {.column width="50%" .center}
+
+Website:
+
+<img src="../../images/qr_code_starkvillecmf-org.svg" alt="QR code to Starkville Crypto Mining Facility website.">
+:::
+
+::: {.column width="50%"}
+
+This presentation:
+
+<img src="../../images/qr_code_community-conversations-presentation.svg" alt="QR code to Community Conversation Presentation slides.">
+:::
+
+::::
