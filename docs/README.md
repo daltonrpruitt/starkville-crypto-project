@@ -1,5 +1,10 @@
 ## Starkville Crypto Mining Facility Project Information
 
+### Update!  
+**Some of us have created documents detailing our own undersandings of what made this effort successful.**  
+**Please read them on the [Debriefs](debriefs) page!**
+
+
 > ⚠⚠⚠  
 > **The Special Exception Application for this project has been withdrawn.**
 > You should continue to be civically engaged, but this specific issue seems to be resolved for Starkville for the time being.  
