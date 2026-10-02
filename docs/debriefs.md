@@ -15,7 +15,7 @@ These two documents represent the perspectives of two separate individuals:
 myself (Dalton) and one of my fellow organizers (EB). 
 
 The first document is a bit over 4 pages and is by EB. 
-Part of their goal was to make a document shorter than the one that I wrote,
+Part of their goal was to make a document easier to read than the one that I wrote,
 but it is still from their own perspective.
 
 <p>
